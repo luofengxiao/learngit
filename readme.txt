@@ -3,9 +3,5 @@ Git os free software is test
 git has a mutable index called stage 
 add one line 
 create a new branch haha 
-<<<<<<< HEAD
 this a new branch  quick and simple 
-=======
-this a new branch  quick and simple
->>>>>>> feature1
 
